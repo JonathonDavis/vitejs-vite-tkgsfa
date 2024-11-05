@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "tamusanantonio",
+    "profile_picture": "src\\assets\\tamusapfp.jpg",
+    "image_url": "src\\assets\\jaguar1.jpg",
+    "caption": "Jags with Mayor Ron!",
+    "likes": 0
+  },
+  {
+    "id": 2,
+    "username": "tamusanantonio",
+    "profile_picture": "src\\assets\\tamusapfp.jpg",
+    "image_url": "src\\assets\\jaguar2.jpg",
+    "caption": "Checkout Jag Cheer!",
+    "likes": 0
+  },
+  {
+    "id": 3,
+    "username": "meta",
+    "profile_picture": "src\\assets\\metapfp.jpg",
+    "image_url": "src\\assets\\meta1.jpg",
+    "caption": "straight fax",
+    "likes": 0
+  }
+]
